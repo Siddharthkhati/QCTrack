@@ -9,6 +9,7 @@
 	<img src=".github/login-qctrack.png" alt="Login QCTrack" />
 </div>
 <br>
+
 ## QCTrack
 
 **QCTrack** is a robust web-based application designed to streamline and manage Quality Control (QC) inspections for incoming shipments and individual units. It provides a structured, intuitive interface for recording critical inspection data, ensuring product quality and compliance throughout the receiving process.
